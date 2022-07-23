@@ -2,3 +2,6 @@
 /data/*
 /models/*
 /~/*
+/sls_*
+SLS-*
+model_grad_*
